@@ -1,0 +1,68 @@
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\appsettings.json
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\grpc.exe
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\grpc.deps.json
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\grpc.runtimeconfig.json
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\grpc.dll
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\grpc.pdb
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Acer\Desktop\kr\grpc\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\grpc.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\grpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\grpc.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\grpc.AssemblyInfo.cs
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\grpc.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\grpc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\staticwebassets\msbuild.grpc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\staticwebassets\msbuild.build.grpc.props
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.grpc.props
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.grpc.props
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\scopedcss\bundle\grpc.styles.css
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\grpc.csproj.Up2Date
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\grpc.dll
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\refint\grpc.dll
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\grpc.pdb
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\grpc.genruntimeconfig.cache
+C:\Users\Acer\Desktop\kr\grpc\obj\Debug\net8.0\ref\grpc.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\grpc.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\grpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\grpc.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\grpc.AssemblyInfo.cs
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\grpc.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\grpc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\grpc.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\refint\grpc.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\grpc.pdb
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\appsettings.json
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\grpc.exe
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\grpc.deps.json
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\grpc.runtimeconfig.json
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\grpc.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\grpc.pdb
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\staticwebassets\msbuild.grpc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\staticwebassets\msbuild.build.grpc.props
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.grpc.props
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.grpc.props
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\scopedcss\bundle\grpc.styles.css
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\grpc.csproj.Up2Date
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\grpc.genruntimeconfig.cache
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\grpc\obj\Debug\net8.0\ref\grpc.dll

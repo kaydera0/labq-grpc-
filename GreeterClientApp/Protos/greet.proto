@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "GreeterClientApp";
+
+package greet;
+
+// The greeting service definition.
+service Greeter {
+
+  rpc SayHello (BaseRequest) returns (BaseReply);
+  rpc Factorial (BaseRequest) returns (BaseReply);
+}
+
+message BaseRequest {
+  int32  name = 1;
+}
+
+message BaseReply {
+  int32  message = 1;
+}
+

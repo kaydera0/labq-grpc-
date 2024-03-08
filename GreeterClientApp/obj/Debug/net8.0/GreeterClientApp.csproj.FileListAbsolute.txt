@@ -1,0 +1,42 @@
+C:\Users\Acer\Desktop\kr\GreeterClientApp\bin\Debug\net8.0\GreeterClientApp.exe
+C:\Users\Acer\Desktop\kr\GreeterClientApp\bin\Debug\net8.0\GreeterClientApp.deps.json
+C:\Users\Acer\Desktop\kr\GreeterClientApp\bin\Debug\net8.0\GreeterClientApp.runtimeconfig.json
+C:\Users\Acer\Desktop\kr\GreeterClientApp\bin\Debug\net8.0\GreeterClientApp.dll
+C:\Users\Acer\Desktop\kr\GreeterClientApp\bin\Debug\net8.0\GreeterClientApp.pdb
+C:\Users\Acer\Desktop\kr\GreeterClientApp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Acer\Desktop\kr\GreeterClientApp\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Acer\Desktop\kr\GreeterClientApp\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Acer\Desktop\kr\GreeterClientApp\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Acer\Desktop\kr\GreeterClientApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.AssemblyInfo.cs
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\GreeterC.584DCCE0.Up2Date
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.dll
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\refint\GreeterClientApp.dll
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.pdb
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.genruntimeconfig.cache
+C:\Users\Acer\Desktop\kr\GreeterClientApp\obj\Debug\net8.0\ref\GreeterClientApp.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\bin\Debug\net8.0\GreeterClientApp.exe
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\bin\Debug\net8.0\GreeterClientApp.deps.json
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\bin\Debug\net8.0\GreeterClientApp.runtimeconfig.json
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\bin\Debug\net8.0\GreeterClientApp.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\bin\Debug\net8.0\GreeterClientApp.pdb
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.AssemblyInfo.cs
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\GreeterC.584DCCE0.Up2Date
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\refint\GreeterClientApp.dll
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.pdb
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\GreeterClientApp.genruntimeconfig.cache
+C:\Users\Acer\Desktop\kr\Технологии интеграции инф систем\lab1\GreeterClientApp\obj\Debug\net8.0\ref\GreeterClientApp.dll
